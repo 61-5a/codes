@@ -1,0 +1,35 @@
+{
+    "workbench.colorTheme": "Hack The Box",
+    "workbench.startupEditor": "none",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "diffEditor.wordWrap": "on",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontSize": 14,
+    "editor.fontWeight": "400",
+    "editor.lineHeight": 20,
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.fontFamily": "'Fira Code'",
+    "terminal.integrated.letterSpacing": 0,
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.minimap.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "php.validate.executablePath": "/usr/local/bin/php",
+    "prettier.printWidth": 120,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontVariations": false,
+    "window.zoomLevel": 1,
+    "editor.codeActionsOnSave": {}
+  }
+  
